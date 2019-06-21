@@ -15,4 +15,4 @@
 [3D 病毒浏览器](https://media.hhmi.org/biointeractive/click/virus-explorer/)  
 
 # License
-[Apache License 2.0](https://github.com/typistw/collection-of-userful-websites/blob/master/LICENSE)
+[MIT License](https://github.com/typistw/collection-of-userful-websites/blob/master/LICENSE)
