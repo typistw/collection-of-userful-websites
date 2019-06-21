@@ -7,6 +7,9 @@
 [OpenLaw--裁判文书](https://openlaw.cn/)  
 [learn-anything--学习资源的搜索引擎](https://learn-anything.xyz/)  
 
+# 博物馆
+[DOS游戏博物馆](https://dos.zczc.cz/)  
+[中文家用游戏博物馆](http://www.famicn.com/)  
 
 # License
 [Apache License 2.0](https://github.com/typistw/collection-of-userful-websites/blob/master/LICENSE)
