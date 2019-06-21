@@ -11,5 +11,8 @@
 [DOS游戏博物馆](https://dos.zczc.cz/)  
 [中文家用游戏博物馆](http://www.famicn.com/)  
 
+# 奇妙的
+[3D 病毒浏览器](https://media.hhmi.org/biointeractive/click/virus-explorer/)  
+
 # License
 [Apache License 2.0](https://github.com/typistw/collection-of-userful-websites/blob/master/LICENSE)
