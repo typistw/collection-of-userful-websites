@@ -4,8 +4,8 @@
 # 检索类
 [龙猫学术导航](http://www.6453.net/)  
 [大木虫学术导航](http://www.6453.net/)  
-[OpenLaw--裁判文书](https://openlaw.cn/)  
-[learn-anything--学习资源的搜索引擎](https://learn-anything.xyz/)  
+[OpenLaw--裁判文书检索](https://openlaw.cn/)  
+[learn-anything--学习资源搜索引擎](https://learn-anything.xyz/)  
 
 # 博物馆
 [DOS游戏博物馆](https://dos.zczc.cz/)  
