@@ -23,6 +23,7 @@
 # 博物馆
 [DOS游戏博物馆](https://dos.zczc.cz/)  
 [中文家用游戏博物馆](http://www.famicn.com/)  
+[鲁迅博物馆资料检索](http://cx.luxunmuseum.com.cn/)
 
 # 好奇地
 [3D 病毒浏览器](https://media.hhmi.org/biointeractive/click/virus-explorer/)  
