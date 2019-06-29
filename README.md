@@ -15,6 +15,10 @@
 [learn-anything--学习资源搜索引擎](https://learn-anything.xyz/)  
 [鸠摩--文档搜索引擎](https://www.jiumodiary.com)  
 [owllock--网络小说搜索引擎](https://www.owllook.net)  
+[I18n--国际化翻译搜索](https://i18ns.com/)  
+
+# 电子书
+[中国哲学书电子化计划](https://ctext.org/ens)
 
 # 博物馆
 [DOS游戏博物馆](https://dos.zczc.cz/)  
