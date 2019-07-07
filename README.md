@@ -32,7 +32,6 @@
 [3D 病毒浏览器](https://media.hhmi.org/biointeractive/click/virus-explorer/)  
 
 # 图片处理
-[黑白照片在线着色](https://colourise.sg/#colorize)  
 [图片无损放大](https://www.photoenlarger.com/)  
 [图片效果增强](http://improvephoto.net/)  
 
