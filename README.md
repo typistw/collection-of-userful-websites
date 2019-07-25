@@ -23,6 +23,7 @@
 
 # 电子书
 [中国哲学书电子化计划](https://ctext.org/ens)
+[古诗词集合](https://github.com/chinese-poetry/chinese-poetry)
 
 # 博物馆
 [DOS游戏博物馆](https://dos.zczc.cz/)  
