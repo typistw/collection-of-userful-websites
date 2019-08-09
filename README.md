@@ -3,6 +3,7 @@
 
 # 资讯
 [RealHotspot--聚合网站热点](https://read.welovebuy.com/)  
+[今日热榜--聚合网站热点](https://tophub.today/)
 [中文独立播客](https://typlog.com/podlist/)
 
 # 社区
