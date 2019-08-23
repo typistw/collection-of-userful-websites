@@ -4,7 +4,8 @@
 # 资讯
 [RealHotspot--聚合网站热点](https://read.welovebuy.com/)  
 [今日热榜--聚合网站热点](https://tophub.today/)  
-[中文独立播客](https://typlog.com/podlist/)
+[分享知识的小型网站](https://ruthub.com/)  
+[中文独立播客](https://typlog.com/podlist/)  
 
 # 社区
 [增长黑盒--专注增长领域的自媒体](http://growthbox.net)  
@@ -30,10 +31,12 @@
 # 博物馆
 [DOS游戏博物馆](https://dos.zczc.cz/)  
 [中文家用游戏博物馆](http://www.famicn.com/)  
-[鲁迅博物馆资料检索](http://cx.luxunmuseum.com.cn/)
+[鲁迅博物馆资料检索](http://cx.luxunmuseum.com.cn/)  
+[浏览器体验Linux和Unix操作系统多种发行版](https://distrotest.net/)
 
 # 好奇地
 [3D 病毒浏览器](https://media.hhmi.org/biointeractive/click/virus-explorer/)  
+[互动元素周期表](https://ruthub.com/)
 
 # 图片处理
 [图片无损放大](https://www.photoenlarger.com/)  
