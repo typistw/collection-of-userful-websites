@@ -22,6 +22,7 @@
 [鸠摩--文档搜索引擎](https://www.jiumodiary.com)  
 [owllock--网络小说搜索引擎](https://www.owllook.net)  
 [I18n--国际化翻译搜索](https://i18ns.com/)  
+[中文搜索的聚合网站](http://www.suiyuanka.com/)  
 
 # 电子书
 [中国哲学书电子化计划](https://ctext.org/ens)  
