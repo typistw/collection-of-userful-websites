@@ -35,6 +35,9 @@
 [鲁迅博物馆资料检索](http://cx.luxunmuseum.com.cn/)  
 [浏览器体验Linux和Unix操作系统多种发行版](https://distrotest.net/)
 
+# 计算机基础
+[鸟哥私房菜](http://cn.linux.vbird.org/)
+
 # 好奇地
 [3D 病毒浏览器](https://media.hhmi.org/biointeractive/click/virus-explorer/)  
 [互动元素周期表](https://ruthub.com/)
