@@ -60,7 +60,8 @@
 
 ## 居家旅行
 [booking--酒店预订](https://www.booking.com)  
-[Expedia--在线旅游平台](https://www.expedia.com/)
+[Expedia--在线旅游平台](https://www.expedia.com/)  
+[全球生活费用排名](https://www.expatistan.com/cost-of-living/country/ranking)
 
 # License
 [MIT License](https://github.com/typistw/collection-of-userful-websites/blob/master/LICENSE)
