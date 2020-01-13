@@ -52,7 +52,8 @@
 
 ## 好奇地
 [3D 病毒浏览器](https://media.hhmi.org/biointeractive/click/virus-explorer/)  
-[互动元素周期表](https://ruthub.com/)
+[互动元素周期表](https://ruthub.com/)  
+[深海--生物一览](https://neal.fun/deep-sea/)
 
 ## 图片处理
 [图片无损放大](https://www.photoenlarger.com/)  
