@@ -64,5 +64,8 @@
 [Expedia--在线旅游平台](https://www.expedia.com/)  
 [全球生活费用排名](https://www.expatistan.com/cost-of-living/country/ranking)
 
+## 反馈平台
+[黑猫投诉](https://tousu.sina.com.cn)  
+
 # License
 [MIT License](https://github.com/typistw/collection-of-userful-websites/blob/master/LICENSE)
