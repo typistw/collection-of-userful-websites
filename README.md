@@ -47,9 +47,13 @@
 ## 计算机基础
 [鸟哥私房菜](http://cn.linux.vbird.org/)
 
-## 安全工具
+## 工具类
+### 安全工具
 [bitwarden--密码管理器](https://bitwarden.com/)  
 [火绒--安全软件](https://www.huorong.cn/)
+
+### 下载器
+[Free Download Manager](https://www.freedownloadmanager.org/zh/)
 
 ## 好奇地
 [3D 病毒浏览器](https://media.hhmi.org/biointeractive/click/virus-explorer/)  
