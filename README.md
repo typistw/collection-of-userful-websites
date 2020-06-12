@@ -45,7 +45,8 @@
 [浏览器体验Linux和Unix操作系统多种发行版](https://distrotest.net/)
 
 ## 计算机基础
-[鸟哥私房菜](http://cn.linux.vbird.org/)
+[鸟哥私房菜](http://cn.linux.vbird.org/)  
+[设计模式](https://refactoringguru.cn/design-patterns)
 
 ## 工具类
 ### 安全工具
